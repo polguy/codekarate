@@ -1,3 +1,5 @@
 This is a text test file.
 
-Add a second line in new_feature_branch
+Add a second line in new_feature_branch. Add some text at the end of 
+that line.
+Added some text again in my_new_feature branch.
